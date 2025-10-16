@@ -1,3 +1,5 @@
 initial project
 
+가나다라마바사
+
 hello world
